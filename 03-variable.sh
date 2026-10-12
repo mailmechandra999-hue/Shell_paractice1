@@ -3,5 +3,5 @@
 PERSON1="$1"
 PERSON2="$2"
 
-echo "Ramesh :: where are you from?"
-echo "suresh :: iam from india"
+echo "$PERSON1 :: where are you from?"
+echo "$PERSON2 :: iam from india"
